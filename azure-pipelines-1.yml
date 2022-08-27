@@ -7,8 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
-
+  Mac Node
 steps:
 - task: NodeTool@0
   inputs:
