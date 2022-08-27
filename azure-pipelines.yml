@@ -6,7 +6,8 @@
 trigger:
 - master
 
-pool: Mac Node
+pool: 
+  Mac Node
   
 
 steps:
