@@ -6,8 +6,8 @@
 trigger:
 - master
 
-pool:
-  vmImage: default
+pool: Mac Node
+  
 
 steps:
 - task: NodeTool@0
